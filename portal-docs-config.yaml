@@ -33,7 +33,7 @@
   path: https://raw.githubusercontent.com/yunbademo/Documentation/master/
   docs:
     - name: JavaScript 控制台 Demo (2)
-      markdown: JavaScriptConsoleDemo.md
+      markdown: console.md
       show: true
     - name: MQTT协议中英文对照
       markdown: MQTTprotocol.md
@@ -42,11 +42,11 @@
       markdown: Pub&Sub.md
       show: true
     - name: 在线监控
-      markdown: Presence.md
+      markdown: presence.md
       show: true
     - name: 实时统计
       markdown: Analysis.md
       show: true
     - name: 认识Socket.IO-创建一个小型聊天室
-      markdown: Chat-room.md
+      markdown: chat-room.md
       show: true
